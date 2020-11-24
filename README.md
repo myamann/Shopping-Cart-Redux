@@ -1,5 +1,5 @@
 # Shopping-Cart-Redux
-Created with ReactJs
+Made with ReactJs
 - Redux state management
 - Redux DevTools
 
